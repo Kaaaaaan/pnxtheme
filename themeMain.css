@@ -601,7 +601,6 @@ body:before {
 	background-color: rgba(var(--vtransparencycolor), 0.2);
 }
 .selected-aXhQR6.channel-2QD9_O .layout-2DM8Md {
-	background-color: rgb(var(--vaccentcolor));
 	text-shadow: 1px 1px var(--vtextshadow);
 }
 .selected-aXhQR6.channel-2QD9_O .layout-2DM8Md svg {
@@ -834,7 +833,7 @@ body:before {
 }
 .message-2qnXI6.localBot-GrCgVt:before,
 .message-2qnXI6.mentioned-xhSam7:before {
-	background-color: rgb(var(--vaccentcolor));
+	background-color: rgb(51,153,255);
 }
 .message-2qnXI6.mentioned-xhSam7 .markup-2BOw-j {
 	border-radius: 3px;
@@ -1390,7 +1389,7 @@ body:before {
 	background-color: rgba(var(--vtransparencycolor), 0.2);
 }
 .selected-aXhQR6.member-3-YXUe .layout-2DM8Md {
-	background-color: rgb(var(--vaccentcolor));
+	background-color: rgb(255,204,255);
 	text-shadow: 1px 1px var(--vtextshadow);
 }
 .selected-aXhQR6.member-3-YXUe .layout-2DM8Md svg {
@@ -1604,7 +1603,7 @@ body:before {
 .category-2haXBH,											/* loadingplaceholders										*/
 .channelIcon-1TvDoP,
 .channelName-2wrHHc {
-	background-color: rgb(var(--vaccentcolor));
+	background-color: rgb();
 }
 .splashImage-13vBzp {										/* screen				image								*/
 	opacity: 0.7;
